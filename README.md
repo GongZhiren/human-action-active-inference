@@ -4,6 +4,8 @@
 
 **Official implementation** &nbsp;·&nbsp; ICLR 2026
 
+[![Project Page](https://img.shields.io/badge/🌐_Project-Page-brightgreen.svg)](https://gongzhiren.github.io/ActiveInference-website/)
+[![OpenReview](https://img.shields.io/badge/OpenReview-FZXwkBH6s7-b31b1b.svg)](https://openreview.net/forum?id=FZXwkBH6s7)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch 2.1+](https://img.shields.io/badge/PyTorch-2.1%2B-ee4c2c.svg)](https://pytorch.org/)
@@ -11,6 +13,9 @@
 *Habit-aware sequential decision making: a library of compact, latent-grounded
 **symbolic rules** learned jointly with a generative world model through a
 biologically inspired **wake–sleep** algorithm.*
+
+**[📄 OpenReview](https://openreview.net/forum?id=FZXwkBH6s7)** &nbsp;·&nbsp;
+**[🌐 Project Page](https://gongzhiren.github.io/ActiveInference-website/)**
 
 </div>
 
@@ -165,14 +170,20 @@ default; override with the `RGAI_ROOT` environment variable.
 
 ## Citation
 
+If you find this work useful, please cite:
+
 ```bibtex
-@inproceedings{rgai2026,
+@inproceedings{zhiren2026learning,
   title     = {Learning Human Habits with Rule-Guided Active Inference},
-  author    = {Gong, Zhiren and others},
-  booktitle = {International Conference on Learning Representations (ICLR)},
-  year      = {2026}
+  author    = {Gong, Zhiren and Yang, Chao and Ren, Wendi and Li, Shuang},
+  booktitle = {The Fourteenth International Conference on Learning Representations (ICLR)},
+  year      = {2026},
+  url       = {https://openreview.net/forum?id=FZXwkBH6s7}
 }
 ```
+
+- **Paper (OpenReview):** https://openreview.net/forum?id=FZXwkBH6s7
+- **Project page:** https://gongzhiren.github.io/ActiveInference-website/
 
 ## License
 
