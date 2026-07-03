@@ -1,0 +1,29 @@
+# data & artifacts (users supply / generate these locally)
+data_raw/
+data_proc/
+runs/
+experiments/*
+!experiments/.gitkeep
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# large binaries
+*.u8
+*.npz
+*.pt
+*.ckpt
+*.7z
+*.zip
+*.tar.bz2
+*.h5
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
+logs/
