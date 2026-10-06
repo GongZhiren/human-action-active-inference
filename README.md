@@ -9,6 +9,10 @@ familiar contexts fire a rule and act instantly, novel contexts fall back on ful
 expected-free-energy planning — so decisions get faster without ever overriding a
 confident plan.**
 
+<p align="center">
+  <a href="https://gongzhiren.github.io/personal-website/"><strong>Zhiren Gong</strong></a>, Chao Yang, Wendi Ren, Shuang Li
+</p>
+
 <table>
   <tr>
     <td align="center">
